@@ -18,4 +18,4 @@ if __name__ == "__main__":
     else:
         # => ['hello.py', 'John', 'Lennon']
         print(f"Hello {full_name(sys.argv[1], sys.argv[2])}!")
-        # end
+        
